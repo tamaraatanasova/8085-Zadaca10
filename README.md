@@ -1,4 +1,4 @@
-#8085 exercise no.10
+# 8085 exercise no.10
 
 Due to increased reliability in the operation of the system for
 supervision two µP 8085 are used. Both µP 8085 execute
