@@ -1,12 +1,12 @@
 # 8085 exercise no.10
 
-Due to increased reliability in the operation of the system for
-supervision two µP 8085 are used. Both µP 8085 execute
-9 the same program located in the corresponding ROM memory. To
-projects an auxiliary "non-intelligent" circuit that will force
-TRAP signal in all cases when the calculated data in
-the two µP differs.
-
+8085 based microprocessor system serves for
+temperature control. The control is performed every 0.5 s.
+If the temperature read is in the interval between
+two boundary temperatures, located at the top of the stack, are
+lights up a green light bulb, and vice versa, a red light bulb lights up and
+the processor stops working. The temperature comes after
+interrupt sequence.
 
 
 Exercise of Low Level Programming with 8085 Assembly Lecture
